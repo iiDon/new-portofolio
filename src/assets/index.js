@@ -8,8 +8,6 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 import css from "./tech/css.png";
-import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
@@ -19,16 +17,19 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import rawsam from "./company/rawsam.png";
+import oumlapay from "./company/oumlapay.png";
+import alrajhi from "./company/alrajhi.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import Quran_System from "./Quran_System.png";
+import Questions_Bank from "./Questions_Bank.png";
+import MyFood from "./MyFood.png";
+import HR from "./HR.png";
+import faculty_eval from "./faculty_eval.png";
+import Eid_Card from "./Eid_Card.png";
+import Golden_Concept from "./Golden_Concept.png";
+
 
 export {
   logo,
@@ -40,8 +41,6 @@ export {
   menu,
   close,
   css,
-  docker,
-  figma,
   git,
   html,
   javascript,
@@ -51,12 +50,14 @@ export {
   redux,
   tailwind,
   typescript,
-  threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  rawsam,
+  oumlapay,
+  alrajhi,
+  Quran_System,
+  Questions_Bank,
+  MyFood,
+  HR,
+  faculty_eval,
+  Eid_Card,
+  Golden_Concept,
 };
